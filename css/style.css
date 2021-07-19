@@ -1,0 +1,38 @@
+.wrapper
+{width: 600px;
+height: 400px;
+margin: 100px auto;
+background: #f1f1f1;
+border: 4px solid orange;
+}
+
+h1 {text-align: center;}
+h2 {text-align: center;
+font-size: 35px;
+color: white;}
+.a{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 29px;
+	left: 22%;
+	background: orange;
+}
+
+.b
+{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 72%;
+	left: 22%;
+	background: #daa33d;
+}
+
+.c{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 66%;
+	background: #987025;
+}

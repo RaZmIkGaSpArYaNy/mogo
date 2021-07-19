@@ -1,0 +1,58 @@
+.wrapper
+{
+	width: 1200px;
+	height:800px;
+	margin: auto;
+	background: #f1f1f1;
+}
+header{
+	width: 1200px;
+	height: 100px;
+	position: fixed;
+	background: #de2f2f
+}
+h2{
+	font-size: 35px;
+	color: white;
+	text-align: center;
+}
+section img
+{
+width: 300px;
+height: 270px;
+float: left;
+margin-left: 20px;
+}
+.a
+{
+	opacity: 0.2;
+
+}
+.a:hover{
+	border-top: thick dotted black;  
+	border-left: dotted black;
+	border-bottom: thick dotted black;
+	border-right: dotted black;
+	transition: 2s;
+	
+}
+
+
+
+.one
+{
+width: 300px;
+height: 270px;
+float: left;
+margin-left: 20px;
+background-image:url(https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/98_-_fastest_accelerating_road_cars_-_ferrari_f8_tributo.jpg?itok=cK2YYgq2); 
+background-size: 100% 100%;
+}
+
+
+.one:hover{
+	transition: 2s;
+	background-image: url(https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/story/hero_image/2019-Porsche-911-coupe-red-press-image-1001x565p-%281%29.jpg);
+	background-size: 100% 100%;
+}
+
